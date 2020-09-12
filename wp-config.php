@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'monjeka' );
+define( 'DB_NAME', 'heroku_a4250a49a579274' );
 
 /** MySQL database username */
 define( 'DB_USER', 'b3d5e7cc4460e4' );
@@ -35,7 +35,7 @@ define( 'DB_HOST', 'us-cdbr-east-02.cleardb.com' );
 define( 'DB_CHARSET', 'utf8mb4' );
 
 /** The Database Collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', 'utf8mb4_unicode_ci' );
+define( 'DB_COLLATE', '' );
 
 /**#@+
  * Authentication Unique Keys and Salts.
